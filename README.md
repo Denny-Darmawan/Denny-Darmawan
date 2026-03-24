@@ -1,4 +1,4 @@
-👋 Hey, I'm Denny Darmawan — Senior Admin Warehouse Finished Goods
+### 👋 Hey, I'm Denny Darmawan — Senior Admin Warehouse Finished Goods
 _________________________________________________________________________
 I’m currently working as an Admin for Warehouse Finished Goods at PT BASF Care Chemicals Indonesia, under a contract with PT Linc - Cipta Mapan Logistik. My responsibilities include managing stock from production to the warehouse using the SAP system, processing goods receipts (GR) and goods issues (GI), and conducting stocktakes to ensure accuracy. I have consistently achieved an annual stocktaking accuracy of 99%.
 
@@ -7,7 +7,7 @@ With over 10 years of experience in warehousing, I am proficient in SAP systems,
 Currently, I am interested in pursuing roles as a **Data Analyst, Data Engineer, or Database Administrator**. I have attended courses at DQLab and Refocus to develop my skills in Excel, SQL, Python, and Power BI.
 
 
-🚀 Tools
+###  🚀 Tools
 _________________________________________________________________________
 |Area	|Stack|
 |-----|-----|
@@ -16,12 +16,14 @@ _________________________________________________________________________
 |Programming Language	|Python, RStudio |
 
 
-
-
-
-📫 Let's Connect
+###   📚 Projects
 _________________________________________________________________________
-* LinkedIn: https://www.linkedin.com/in/denny-darmawan-072152222/
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Denny-Darmawan/Bootcamp-Projects-).
+
+
+###   📫 Let's Connect
+_________________________________________________________________________
+* [LinkedIn](https://www.linkedin.com/in/denny-darmawan-072152222/)
 * Email: d.darmawan7@yahoo.com
 * Phone: +62 877 7830 7902
 
