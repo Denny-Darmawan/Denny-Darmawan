@@ -16,18 +16,7 @@ _________________________________________________________________________
 |Programming Language	|Python, RStudio |
 
 
-💼 Work Experience
-_________________________________________________________________________
-* Admin for Warehouse Finished Goods (Feb 2014 - Present)
-* Project-Based Virtual Intern : Data Engineer - BTPN Syariah x Rakamin Academy (Nov 2023) 
-* Project-Based Virtual Intern : Big Data Analytics - Kimia Farma x Rakamin Academy (Feb 2023) 
 
-
-💼 Project Experience
-_________________________________________________________________________
-* RevoU Mini Course : Intro to Data Analytics - Member (Oct 2023)
-* Refocus Special Project: United States national highway research - Leader Group (Jun 2023)
-* DQLab : Airbnb Singapura Final Project - Member (Jan 2023 - Mar 2023)
 
 
 📫 Let's Connect
