@@ -9,7 +9,7 @@ Currently, I am interested in pursuing roles as a **Data Analyst, Data Engineer,
 
 ###  🚀 Tools
 _________________________________________________________________________
-|Area	|Stack|
+|Area	|Tools|
 |-----|-----|
 |Visualization	| Power BI, Tableau, looker Studio |
 |Databases	|PostgreSQL, pgAdmin 4, Excel|
